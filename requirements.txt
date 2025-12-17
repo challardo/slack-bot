@@ -1,0 +1,9 @@
+langchain
+langchain-chroma
+langchain-openai
+langchain-community
+slack-bolt
+python-dotenv
+chromadb
+tiktoken
+

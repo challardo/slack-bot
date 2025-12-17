@@ -1,0 +1,13 @@
+Topic: Slack App Scopes
+Required Scopes for RAG Bot:
+1. app_mentions:read - To see when people talk to the bot in channels.
+2. chat:write - To allow the bot to send messages.
+3. im:history - To read and respond to direct messages.
+4. groups:history - (Optional) To read messages in private channels.
+5. channels:history - (Optional) To read messages in public channels.
+
+Common Issues:
+- "Bot not responding": Usually missing Event Subscriptions or Socket Mode not enabled.
+- "403 Forbidden": The bot was added to a channel but lacks permissions to post.
+- "Invalid Token": Mismatch between xoxb (Bot Token) and xapp (App Token).
+

@@ -1,0 +1,11 @@
+Project: AlphaBot
+Deadline: January 30, 2026
+Lead Engineer: Jane Doe
+Status: In Progress
+
+Project AlphaBot is our flagship Slack integration project. It features:
+- Multi-provider support (Slack, Teams, Discord)
+- RAG system for local documentation
+- Integration with Jira for ticket tracking
+- Automated daily standup reports
+

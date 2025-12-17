@@ -1,0 +1,9 @@
+Company Name: TechFerret Solutions
+Location: San Francisco, CA
+Services: AI implementation, Slack Bot development, Cloud Migration.
+Founded: 2023
+Support Email: support@techferret.example.com
+Office Hours: 9 AM - 5 PM PST, Monday to Friday.
+
+Our company specializes in building modular agents that can be deployed across various messaging platforms. We use LangChain and OpenAI as our primary technology stack.
+
